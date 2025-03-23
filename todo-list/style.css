@@ -1,0 +1,35 @@
+body{
+    text-align: center;
+    background-color: lavender;
+    font-family: poppins;
+    margin: 0;
+}
+
+#btn{
+    background-color: rgb(240, 236, 216);
+    color: black;
+    font-weight: 500;
+    padding: 0.5rem 3rem;
+    border-radius: 0.5rem;
+    border: 1px solid black;
+    margin: 1rem;
+    font-size: 1rem;
+}
+
+.input{
+    padding: 0.5rem;
+    width: 50%;
+    border-radius: 0.5rem;
+    border: 1px solid black;
+    margin: 1rem;
+    font-size: 1rem;
+}
+
+.list{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 1rem;
+}
+
